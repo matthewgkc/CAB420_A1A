@@ -26,3 +26,6 @@ ls
 clear
 unzip Q1
 pip install pandas
+git add .
+git commit -m "Started Assessment, Created OLS for Q1"
+git push
