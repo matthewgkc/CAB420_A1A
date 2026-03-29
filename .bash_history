@@ -43,3 +43,12 @@ git add .
 clear
 git commit -m "Most of Q2"
 git push
+unzip Q3
+ls
+unzip Q3
+clear
+ls
+unzip Q3
+git add .
+git commit -m "Q3 added"
+git push
