@@ -29,3 +29,17 @@ pip install pandas
 git add .
 git commit -m "Started Assessment, Created OLS for Q1"
 git push
+git add .
+git commit -m "Added LASSO and Ridge Regression to Q1"
+git push
+git add .
+git commit -m "added plot import"
+git push
+unzip Q2
+git add .
+git commit -m "Q2 added"
+git push
+git add .
+clear
+git commit -m "Most of Q2"
+git push
